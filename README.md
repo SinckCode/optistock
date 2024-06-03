@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# PAGINA WEB DEL PROYECTO OPTISTOCK PRIMER SEMESTRE CLASE DE ISSC
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
